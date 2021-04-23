@@ -1,4 +1,4 @@
-Python Task Manager
+#Python Task Manager
 A simple desktop python application that helps keep track of daily tasks.
 
 Features:
