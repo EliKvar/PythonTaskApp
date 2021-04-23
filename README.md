@@ -1,4 +1,5 @@
-#Python Task Manager
+# Python Task Manager
+
 A simple desktop python application that helps keep track of daily tasks.
 
 Features:
@@ -7,5 +8,6 @@ Features:
 - Implements the Tkinter python library for a GUI Interface.
 
 Technologies:
-Python
-Tkinter Library
+
+-Python
+-Tkinter Library
