@@ -9,5 +9,5 @@ Features:
 
 Technologies:
 
--Python
+-Python<br />
 -Tkinter Library
